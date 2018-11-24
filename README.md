@@ -9,3 +9,6 @@ This is the radme file for this projec
 Adding changes for example
 
 Changes as part of automatic merge example2
+
+## Causing Trouble
+Since I plan to edit the same file, this could cause a conflict
