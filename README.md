@@ -8,4 +8,4 @@ This is the radme file for this projec
 
 Adding changes for example
 
-Changes as part of automatic merge example
+Changes as part of automatic merge example2
