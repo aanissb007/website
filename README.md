@@ -9,3 +9,7 @@ This is the radme file for this projec
 Adding changes for example
 
 Changes as part of automatic merge example2
+
+## Updates from Master
+
+This is oging to be painful, but we will deal with it
